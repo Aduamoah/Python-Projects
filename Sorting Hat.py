@@ -1,4 +1,4 @@
-# Write code below 💖
+
 print("""Q1) Do you like Dawn or Dusk?
     1) Dawn
     2) Dusk
